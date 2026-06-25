@@ -1,6 +1,9 @@
 # Battery Health Prediction System
-### NASA Battery Dataset — ML-Based SoH & RUL Estimation
 
+### NASA Battery Dataset — ML-Based SoH & RUL Estimation
+## 📊 Final Results
+
+![Battery Health Prediction Results](model_performance.png)
 ---
 
 ## Project Summary
